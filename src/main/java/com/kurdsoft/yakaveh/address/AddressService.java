@@ -1,10 +1,9 @@
 package com.kurdsoft.yakaveh.address;
 
 
-import com.kurdsoft.yakaveh.User.IUserService;
-import com.kurdsoft.yakaveh.User.User;
+import com.kurdsoft.yakaveh.user.IUserService;
+import com.kurdsoft.yakaveh.user.User;
 import com.kurdsoft.yakaveh.common.exceptions.NotFound;
-import com.kurdsoft.yakaveh.items.Items;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

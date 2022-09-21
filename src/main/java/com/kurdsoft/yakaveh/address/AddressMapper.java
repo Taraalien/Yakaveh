@@ -1,8 +1,7 @@
 package com.kurdsoft.yakaveh.address;
 
-import com.kurdsoft.yakaveh.User.UserMapper;
+import com.kurdsoft.yakaveh.user.UserMapper;
 import com.kurdsoft.yakaveh.common.base.LocationDTO;
-import com.kurdsoft.yakaveh.finalbasket.FinalBasketMapper;
 import org.geolatte.geom.G2D;
 import org.geolatte.geom.Geometries;
 import org.geolatte.geom.Point;

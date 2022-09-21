@@ -1,7 +1,5 @@
-package com.kurdsoft.yakaveh.User;
+package com.kurdsoft.yakaveh.user;
 
-import com.kurdsoft.yakaveh.basket.Basket;
-import com.kurdsoft.yakaveh.basket.BasketDTO;
 import org.mapstruct.Mapper;
 
 import java.util.List;

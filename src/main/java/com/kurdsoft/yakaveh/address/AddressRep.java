@@ -1,6 +1,5 @@
 package com.kurdsoft.yakaveh.address;
 
-import com.kurdsoft.yakaveh.User.User;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.PagingAndSortingRepository;

@@ -1,6 +1,5 @@
-package com.kurdsoft.yakaveh.User;
+package com.kurdsoft.yakaveh.user;
 
-import com.kurdsoft.yakaveh.basket.Basket;
 import org.springframework.data.domain.Page;
 
 import java.util.List;

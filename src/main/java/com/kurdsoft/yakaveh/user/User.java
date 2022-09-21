@@ -1,11 +1,10 @@
-package com.kurdsoft.yakaveh.User;
+package com.kurdsoft.yakaveh.user;
 
 
 import com.kurdsoft.yakaveh.address.Address;
 import com.kurdsoft.yakaveh.common.base.BaseEntity;
 import lombok.Data;
 import org.hibernate.envers.Audited;
-import org.springframework.boot.autoconfigure.security.ConditionalOnDefaultWebSecurity;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

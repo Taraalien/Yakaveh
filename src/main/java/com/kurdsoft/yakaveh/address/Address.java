@@ -1,7 +1,7 @@
 package com.kurdsoft.yakaveh.address;
 
 
-import com.kurdsoft.yakaveh.User.User;
+import com.kurdsoft.yakaveh.user.User;
 import com.kurdsoft.yakaveh.common.base.BaseEntity;
 import com.kurdsoft.yakaveh.finalbasket.FinalBasket;
 import lombok.Data;

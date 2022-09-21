@@ -1,4 +1,4 @@
-package com.kurdsoft.yakaveh.User;
+package com.kurdsoft.yakaveh.user;
 
 import com.kurdsoft.yakaveh.common.exceptions.ConflictException;
 import com.kurdsoft.yakaveh.common.exceptions.NotFound;

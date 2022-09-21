@@ -1,7 +1,5 @@
-package com.kurdsoft.yakaveh.User;
+package com.kurdsoft.yakaveh.user;
 
-import com.kurdsoft.yakaveh.basket.Basket;
-import com.kurdsoft.yakaveh.basket.BasketDTO;
 import com.kurdsoft.yakaveh.common.PagingData;
 import lombok.AllArgsConstructor;
 import lombok.Data;
